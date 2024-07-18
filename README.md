@@ -100,6 +100,21 @@ tar -xzvf dill.tar.gz && cd dill
   ps -ef | grep dill
   ```
 
+  ### Çıktı Bu şekilde olmalı
+  - ubuntu      1981       1 86 08:09 pts/0    00:00:43 /home/ubuntu/dill/dill-node --light --embedded-geth --datadir /home/ubuntu/dill/light_node/data/beacondata --genesis-state /home/ubuntu/dill/genesis.ssz --grpc-gateway-host 0.0.0.0 --initial-validators /home/ubuntu/dill/validators.j
+ 
+  ### STAKE EDECEĞİZ Platformdan yapacağız
+  - deposit_data-*.json dosyasını sunucumuzdan indirmemiz lazım
+  - dill dosyası içindeki  .validatör_keys dosyası içerisinde
+  - kopyalama işlemini yaptıktan sonra siteye bağlanarak dosyamızı buraya ekleyerek validatörmüze bağlanıyoruz.
+  - https://staking.dill.xyz/
+    
+  ![image](https://github.com/user-attachments/assets/ede3c2bf-8687-413d-a766-ed33cf76a41a)
+
+  - bu işlemi yaptıktan sonra diğer sayfaya geçiyoruz.
+  - discorddan faucet istiyoruz.
+  ![image](https://past-chokeberry-e85.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa156a5a1-885f-491c-90e5-49580a8f7a9b%2Ff767e031-4ef1-4374-91e1-bd9cbc58e769%2FUntitled.png?table=block&id=cfefaea7-8df1-47a9-8537-2e01dba0fff5&spaceId=a156a5a1-885f-491c-90e5-49580a8f7a9b&width=2000&userId=&cache=v2)
+
 
 
 
