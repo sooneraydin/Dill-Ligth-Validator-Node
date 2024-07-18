@@ -112,9 +112,11 @@ tar -xzvf dill.tar.gz && cd dill
   ![image](https://github.com/user-attachments/assets/ede3c2bf-8687-413d-a766-ed33cf76a41a)
 
   - bu işlemi yaptıktan sonra diğer sayfaya geçiyoruz.
-  - discorddan faucet istiyoruz.
+  - discorddan faucet istiyoruz. Faucet geldikten sonra stake işlemini gerçekleştiriyoruz.
   ![image](https://past-chokeberry-e85.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa156a5a1-885f-491c-90e5-49580a8f7a9b%2Ff767e031-4ef1-4374-91e1-bd9cbc58e769%2FUntitled.png?table=block&id=cfefaea7-8df1-47a9-8537-2e01dba0fff5&spaceId=a156a5a1-885f-491c-90e5-49580a8f7a9b&width=2000&userId=&cache=v2)
 
+- En son bu şekilde olması gerekiyor.
+  ![image](https://past-chokeberry-e85.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa156a5a1-885f-491c-90e5-49580a8f7a9b%2F007ad42b-cccd-46a8-9129-f848a0e5877b%2FUntitled.png?table=block&id=a2b12bfe-0766-4932-816b-fbea2ea65ef9&spaceId=a156a5a1-885f-491c-90e5-49580a8f7a9b&width=1420&userId=&cache=v2)
 
 
 
